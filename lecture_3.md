@@ -32,4 +32,4 @@ Knowledge 중에 Titanic - Machine Learning from Disaster라는 제목을 갖은
 MNIST라는 데이터셋이 있습니다. 한 번 구글링(구글에 검색) 해보시기 전에 말씀 드리면  
 MNIST 데이터셋은 나중에 할 거에요.
 
-왜냐하면 MNIST는 이미지 데이터셋이라 나중에 배울 순서고 이미지 데이터 전에 먼저 해야할 것이 있습니다.
+저희는 **Iris**라는 붓꽃 데이터를 다뤄볼 거에요!!! 
